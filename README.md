@@ -5,7 +5,7 @@ Then, the program prints 2 different assets on 1 of the colored squares, which i
 3 rows and the bottom 3 rows.
 Then it allows the user to move the assets using a mouse.
 
-Software Demo Video: ()
+Software Demo Video: (https://youtu.be/YD57anPMKl8)
 
 # Development Environment
 
