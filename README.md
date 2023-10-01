@@ -15,6 +15,6 @@ This project was made in C#.
 
 # Useful Websites
 
-* [Unity Documentation]([https://www.w3schools.com/cs/index.php](https://docs.unity3d.com/ScriptReference/Debug.Log.html)https://docs.unity3d.com/ScriptReference/Debug.Log.html)
-* [Generalist Programmer: Drag and Drop Tutorial]([https://stackoverflow.com/](https://generalistprogrammer.com/game-design-development/unity-drag-and-drop-tutorial/)https://generalistprogrammer.com/game-design-development/unity-drag-and-drop-tutorial/)
-* [ChatGPT.OpenAI.com]([https://chat.openai.com])
+* [Unity Documentation] https://docs.unity3d.com/ScriptReference/Debug.Log.html)https://docs.unity3d.com/ScriptReference/Debug.Log.html
+* [Generalist Programmer: Drag and Drop Tutorial] https://generalistprogrammer.com/game-design-development/unity-drag-and-drop-tutorial/)https://generalistprogrammer.com/game-design-development/unity-drag-and-drop-tutorial/
+* [ChatGPT.OpenAI.com] https://chat.openai.com
